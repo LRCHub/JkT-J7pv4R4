@@ -1,0 +1,304 @@
+{
+  "version": 1,
+  "base_track": "POWDER SNOW",
+  "base_artist": "冬馬かずさ",
+  "createdAt": "2026-03-13T03:14:12.807124Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SNOWFLAKES - powder snow mix -",
+      "artist": "平田志穂子",
+      "has_synced": true,
+      "path": "select/01_SNOWFLAKES_-_powder_snow_mix_-_平田志穂子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SNOWFLAKES - powder snow mix -",
+      "artist": "Shihoko Hirata",
+      "has_synced": true,
+      "path": "select/02_SNOWFLAKES_-_powder_snow_mix_-_Shihoko_Hirata.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SNOWFLAKES -powder snow mix-",
+      "artist": "Atsushi Kitajoh, Shihoko Hirata",
+      "has_synced": true,
+      "path": "select/03_SNOWFLAKES_-powder_snow_mix-_Atsushi_Kitajoh,_Shihoko_Hirata.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Powder Snow",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/04_Powder_Snow_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Powder Snow [粉雪]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/05_Powder_Snow_[粉雪]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "POWDER SNOW",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/06_POWDER_SNOW_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "POWDER SNOW",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/07_POWDER_SNOW_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "POWDER SNOW \"dub's sentimental remix\"",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/08_POWDER_SNOW__dub's_sentimental_remix_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "POWDER SNOW ''dub's sentimental remix''",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": true,
+      "path": "select/09_POWDER_SNOW_''dub's_sentimental_remix''_Ayumi_Hamasaki.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Snowflakes -Powder Snow Mix-",
+      "artist": "Shihoko Hirata",
+      "has_synced": true,
+      "path": "select/10_Snowflakes_-Powder_Snow_Mix-_Shihoko_Hirata.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "POWDER SNOW",
+      "artist": "冬馬かずさ",
+      "has_synced": true,
+      "path": "select/11_POWDER_SNOW_冬馬かずさ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "POWDER SNOW",
+      "artist": "Kazusa Touma",
+      "has_synced": true,
+      "path": "select/12_POWDER_SNOW_Kazusa_Touma.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "POWDER SNOW",
+      "artist": "浜崎あゆみ",
+      "has_synced": true,
+      "path": "select/13_POWDER_SNOW_浜崎あゆみ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "POWDER SNOW - PREMIUM COUNTDOWN LIVE 2008-2009 A ver.",
+      "artist": "Ayumi Hamasaki",
+      "has_synced": false,
+      "path": "select/14_POWDER_SNOW_-_PREMIUM_COUNTDOWN_LIVE_2008-2009_A_ver._Ayumi_Hamasaki.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "SNOWFLAKES -powder snow mix-",
+      "artist": "平田志穂子",
+      "has_synced": true,
+      "path": "select/15_SNOWFLAKES_-powder_snow_mix-_平田志穂子.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "POWDER SNOW",
+      "artist": "小木曽雪菜",
+      "has_synced": true,
+      "path": "select/16_POWDER_SNOW_小木曽雪菜.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "POWDER SNOW",
+      "artist": "小木曽雪菜 (cv. 米澤円)",
+      "has_synced": true,
+      "path": "select/17_POWDER_SNOW_小木曽雪菜_(cv._米澤円).lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "POWDER SNOW",
+      "artist": "AKKO",
+      "has_synced": true,
+      "path": "select/18_POWDER_SNOW_AKKO.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "SNOWFLAKES -powder snow mix-",
+      "artist": "Shihoko Hirata",
+      "has_synced": true,
+      "path": "select/19_SNOWFLAKES_-powder_snow_mix-_Shihoko_Hirata.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "David Ashley Parker From Powder Springs",
+      "artist": "Travis Denning",
+      "has_synced": true,
+      "path": "select/20_David_Ashley_Parker_From_Powder_Springs_Travis_Denning.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Powder to the People",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/21_Powder_to_the_People_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Plastic & Powder",
+      "artist": "Lower Dens",
+      "has_synced": false,
+      "path": "select/22_Plastic_&_Powder_Lower_Dens.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Bug Powder Dust (Chemical Brothers mix)",
+      "artist": "Bomb the Bass",
+      "has_synced": false,
+      "path": "select/23_Bug_Powder_Dust_(Chemical_Brothers_mix)_Bomb_the_Bass.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Brushed With Oil, Dusted With Powder",
+      "artist": "Scritti Politti",
+      "has_synced": true,
+      "path": "select/24_Brushed_With_Oil,_Dusted_With_Powder_Scritti_Politti.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Powder Blue (feat. Gunna)",
+      "artist": "Ty Dolla $ign feat. Gunna",
+      "has_synced": true,
+      "path": "select/25_Powder_Blue_(feat._Gunna)_Ty_Dolla_$ign_feat._Gunna.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Powder Blue (feat. Gunna)",
+      "artist": "Ty Dolla $ign, Gunna",
+      "has_synced": true,
+      "path": "select/26_Powder_Blue_(feat._Gunna)_Ty_Dolla_$ign,_Gunna.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Powder Man",
+      "artist": "UNKLE",
+      "has_synced": false,
+      "path": "select/27_Powder_Man_UNKLE.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Bug Powder Dust (The Chemical Brothers Remix)",
+      "artist": "Bomb The Bass",
+      "has_synced": false,
+      "path": "select/28_Bug_Powder_Dust_(The_Chemical_Brothers_Remix)_Bomb_The_Bass.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Monkey Powder",
+      "artist": "The Brian Jonestown Massacre",
+      "has_synced": true,
+      "path": "select/29_Monkey_Powder_The_Brian_Jonestown_Massacre.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Powder",
+      "artist": "Bedhead",
+      "has_synced": false,
+      "path": "select/30_Powder_Bedhead.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Big Powder Dust (The Chemical Brothers Remix)",
+      "artist": "Bomb The Bass",
+      "has_synced": false,
+      "path": "select/31_Big_Powder_Dust_(The_Chemical_Brothers_Remix)_Bomb_The_Bass.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Money and the Powder",
+      "artist": "Gangsta Boo",
+      "has_synced": false,
+      "path": "select/32_Money_and_the_Powder_Gangsta_Boo.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Money and Powder",
+      "artist": "Gangsta Boo",
+      "has_synced": false,
+      "path": "select/33_Money_and_Powder_Gangsta_Boo.txt"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Keep Your Powder Dry",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/34_Keep_Your_Powder_Dry_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Powder & Iron",
+      "artist": "Running Wild",
+      "has_synced": true,
+      "path": "select/35_Powder_&_Iron_Running_Wild.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "As Powder Turns to Dust",
+      "artist": "Chalice",
+      "has_synced": false,
+      "path": "select/36_As_Powder_Turns_to_Dust_Chalice.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "POWDER SNOW",
+      "artist": "冬馬かずさ",
+      "has_synced": false,
+      "path": "select/pl_01_POWDER_SNOW_冬馬かずさ.txt"
+    }
+  ]
+}
